@@ -19,7 +19,7 @@
   `npx jest` 
 
 ## Configurações DB:
-Foi utilizado o PostgreSQL, mas altere o arquivo .env de acordo com sua database.
+Foi utilizado o PostgreSQL, mas crie o arquivo .env e altere de acordo com sua database.
 
 ## Opcional [Postman]:
 Rotas para testar manualmente via Postman:
